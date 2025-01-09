@@ -1,12 +1,3 @@
-fastapi
-uvicorn
-websockets
-python-jose[cryptography]
-python-multipart
-pydantic
-python-dotenv
-bcrypt
-aiofiles
-pytest
-httpx
-py-jwt
+fastapi==0.115.6
+PyJWT==2.10.1
+uvicorn==0.34.0
