@@ -2,6 +2,11 @@
 
 A full-stack application featuring real-time data visualization, authentication, and CRUD operations.
 
+## Live Demo
+
+- Frontend: [https://blackrose-git-master-himanshuchittora23908s-projects.vercel.app/](https://blackrose-git-master-himanshuchittora23908s-projects.vercel.app/)
+- Backend: [https://blackrose-vyhg.onrender.com/](https://blackrose-vyhg.onrender.com/)
+
 ## Features
 
 - User authentication with JWT
